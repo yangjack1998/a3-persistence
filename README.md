@@ -34,7 +34,9 @@ I somehow cannot pull request the code on the test branch to master.
 
 There are several ways you can take a look at the code:
 1.https://glitch.com/edit/#!/a3-yangjack1998?path=server.improved.js:1:0
+
 2.https://github.com/yangjack1998/a2-shortstack/tree/master
+
 3.https://github.com/yangjack1998/a3-persistence/tree/test
 
 Sorry for the inconvenience

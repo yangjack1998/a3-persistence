@@ -28,3 +28,13 @@ information. This not only saves space for the webpage, but also make the webpag
 - **Hover Reaction**: The proper hover reaction can tell user which button/tag is available. Whenever users hover over a input/button/tag, if the element is available, there will be reaction. If the button is not available(like submit button won't be available until every field is filled), uesr can easily tell because of the style and lack of reaction.
 - **Icons**: There are icons both on web title and web page. This can help people easier to understand the meaning of each
 fields (especially for people who cannot read the language).
+
+## Code
+I somehow cannot pull request the code on the test branch to master.
+
+There are several ways you can take a look at the code:
+1.https://glitch.com/edit/#!/a3-yangjack1998?path=server.improved.js:1:0
+2.https://github.com/yangjack1998/a2-shortstack/tree/master
+3.https://github.com/yangjack1998/a3-persistence/tree/test
+
+Sorry for the inconvenience
